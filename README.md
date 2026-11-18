@@ -1,5 +1,5 @@
 
-# 🛒 loja_tech: Comsultas Stored Procedures (MySQL)
+# 🛒 loja_tech: Consultas Stored Procedures (MySQL)
 
 Atividades práticas de banco de dados relacional usando o banco **loja_tech**, que simula o e-commerce de uma loja de produtos de tecnologia (**TechStore**). O foco é fixar a sintaxe básica de SQL, a leitura de esquema e a criação de stored procedures, em nível **muito fácil**.
 
