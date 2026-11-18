@@ -152,4 +152,4 @@ SELECT @total AS total_produtos;   -- retorna 3
 ## 👩‍💻 Autora
 
 **Paola Cristine**
-GitHub: [@paolacristine7](https://github.com/paolacristine7)
+GitHub: [@paolacristina7](https://github.com/paolacristine7)
